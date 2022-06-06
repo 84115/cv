@@ -1,3 +1,5 @@
+\usepackage[normalem]{ulem}
+
 %---------
 % CV Class
 %---------
